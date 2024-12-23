@@ -26,3 +26,16 @@ Progression:
 2. Abilities. How do I build complexity into the simplistic? How can abilities continue to scale beside or in spite of mechanics? How can something like a crafting progression happen outside of the character mechanics?
 3. Narrative. How can the narrative advance on scales that differ from the magnitude of the player characters?
 4. Home base. What is required to improve a location? What mechanical benefits do players get from it? How can I prevent locking those benefits to a list of specific things?
+
+
+
+
+---
+# Goals
+1. Be able to tell the story of someone who is transmigrated and gets a cheat skill.
+2. Be able to tell the story of a slayer's association member doing various tasks.
+3. Be able to tell the story of a slow lifer creating their own ideal world through skills and crafts and trade.
+4. Be able to tell the story of found families and getting together with the homies.
+5. Be able to tell the story of a magic crafter who can fine tune magic that no one has seen before.
+6. Be able to play simple and fast, with powerful narrative consequences.
+7. Make every enemy potentially deadly.

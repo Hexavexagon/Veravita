@@ -1,0 +1,4 @@
+Royalty:
+* Oldest sibling who everyone feels is too powerful and competent. Thought of by everyone as having such ruthless aspiration that they will do anything to take the throne. Actual motivation is to outshine their siblings so much that there isn't any point in fighting for succession, meaning their precious younger siblings will all be safe.
+* Older sister who is very over-protective of her younger sister around men, falsly accusing them of things. This is because she was formerly engaged to an asshole who also sought to marry her sister after she broke off the engagement.
+* Younger sister who denounced her claim for the throne to avoid marrying said guy.
