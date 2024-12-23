@@ -14,6 +14,18 @@
 
 ---
 
+# Stats??
+
+**Calling:**
+
+**Marebito:**
+
+**Immortality:**
+
+**Numeni:**
+
+---
+
 # Contents
 
 **Description:**
