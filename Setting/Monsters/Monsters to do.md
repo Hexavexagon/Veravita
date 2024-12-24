@@ -11,3 +11,13 @@ A glowing, antlered newt monster who heals.
 Raspy toddler. "Your? people? call me?... Mezata? My? people? Do not? talk?... This? is all new? to me?"
 
 A calamity formed when a newt-like healing monster absorbed the blood of hundreds of other creatures. Typically mezata are killed easily by adventurers and slayers, often prioritized because of their healing ability. They look like a newt with six small antler-like protrusions, and have a gentle green glow and porous skin that absorbs things easily. A mezata typically couldn't fight off someone who wanted to kill it, but thanks to the human (mostly) form she gained and her almost immortal regeneration, the eternal mezata could win a fight she was forced into. She's very timid about injuries, and sees people as bringers of destruction, so how she is approached will change what the situation becomes. She can talk, but is new to forming human voices. As a human she has vein-like red patterns mottled all over her skin.
+
+
+# Illusion
+Illusion magic seems harmless, but if you do something like make the body stop perceiving its heart, the body will die of shock.
+
+# Fungal
+Spores in the air that can grow anywhere. Sprout mushrooms from your body. Body horror type shit.
+
+# Chimera
+Uses twisting magic to warp anything it touches with an attack. Can split open and have arms come out of the wound. Can rotate it's body in a way that doesn't make sense. etc.
