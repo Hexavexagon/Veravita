@@ -21,3 +21,6 @@ Spores in the air that can grow anywhere. Sprout mushrooms from your body. Body 
 
 # Chimera
 Uses twisting magic to warp anything it touches with an attack. Can split open and have arms come out of the wound. Can rotate it's body in a way that doesn't make sense. etc.
+
+
+# Jellycatfish AKA Jellycats
